@@ -1,0 +1,1 @@
+Use sempre o Git em seus projetos!
